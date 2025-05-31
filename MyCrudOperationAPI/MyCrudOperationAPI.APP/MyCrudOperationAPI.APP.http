@@ -1,0 +1,6 @@
+@MyCrudOperationAPI.APP_HostAddress = http://localhost:5173
+
+GET {{MyCrudOperationAPI.APP_HostAddress}}/
+Accept: application/json
+
+###

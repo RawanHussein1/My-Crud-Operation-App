@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9793B9-E758-48DC-ACAC-1ABFB3D0C8DE}|MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj|e:\\mytask\\backendside\\mycrudoperationapi\\mycrudoperationapi.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9793B9-E758-48DC-ACAC-1ABFB3D0C8DE}|MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj|solutionrelative:mycrudoperationapi.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C321BC-F273-4141-AA7E-E955DE09B041}|Infrastructure\\Infrastructure.csproj|e:\\mytask\\backendside\\mycrudoperationapi\\infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C321BC-F273-4141-AA7E-E955DE09B041}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF8FE5-7765-4F7E-872D-0BAC5A8DE994}|Application\\Application.csproj|e:\\mytask\\backendside\\mycrudoperationapi\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBF8FE5-7765-4F7E-872D-0BAC5A8DE994}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF8FE5-7765-4F7E-872D-0BAC5A8DE994}|Application\\Application.csproj|e:\\mytask\\backendside\\mycrudoperationapi\\application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBF8FE5-7765-4F7E-872D-0BAC5A8DE994}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C321BC-F273-4141-AA7E-E955DE09B041}|Infrastructure\\Infrastructure.csproj|e:\\mytask\\backendside\\mycrudoperationapi\\infrastructure\\migrations\\20250530163907_addpricetoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C321BC-F273-4141-AA7E-E955DE09B041}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250530163907_addpricetoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C321BC-F273-4141-AA7E-E955DE09B041}|Infrastructure\\Infrastructure.csproj|e:\\mytask\\backendside\\mycrudoperationapi\\infrastructure\\migrations\\20250530163907_addpricetoproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C321BC-F273-4141-AA7E-E955DE09B041}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250530163907_addpricetoproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C321BC-F273-4141-AA7E-E955DE09B041}|Infrastructure\\Infrastructure.csproj|e:\\mytask\\backendside\\mycrudoperationapi\\infrastructure\\decorators\\loggingproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C321BC-F273-4141-AA7E-E955DE09B041}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\decorators\\loggingproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9793B9-E758-48DC-ACAC-1ABFB3D0C8DE}|MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj|e:\\mytask\\backendside\\mycrudoperationapi\\mycrudoperationapi.app\\mycrudoperationapi.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E9793B9-E758-48DC-ACAC-1ABFB3D0C8DE}|MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj|solutionrelative:mycrudoperationapi.app\\mycrudoperationapi.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9793B9-E758-48DC-ACAC-1ABFB3D0C8DE}|MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj|e:\\mytask\\backendside\\mycrudoperationapi\\mycrudoperationapi.app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E9793B9-E758-48DC-ACAC-1ABFB3D0C8DE}|MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj|solutionrelative:mycrudoperationapi.app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9793B9-E758-48DC-ACAC-1ABFB3D0C8DE}|MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj|e:\\mytask\\backendside\\mycrudoperationapi\\mycrudoperationapi.app\\mycrudoperationapi.app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3E9793B9-E758-48DC-ACAC-1ABFB3D0C8DE}|MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj|solutionrelative:mycrudoperationapi.app\\mycrudoperationapi.app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9793B9-E758-48DC-ACAC-1ABFB3D0C8DE}|MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj|e:\\mytask\\backendside\\mycrudoperationapi\\mycrudoperationapi.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E9793B9-E758-48DC-ACAC-1ABFB3D0C8DE}|MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj|solutionrelative:mycrudoperationapi.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 259,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:17:46.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:17:37.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250530163907_AddPriceToProduct.cs",
+              "DocumentMoniker": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\Infrastructure\\Migrations\\20250530163907_AddPriceToProduct.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250530163907_AddPriceToProduct.cs",
+              "ToolTip": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\Infrastructure\\Migrations\\20250530163907_AddPriceToProduct.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250530163907_AddPriceToProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:17:12.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:15:19.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\MyCrudOperationAPI.APP\\Program.cs",
+              "RelativeDocumentMoniker": "MyCrudOperationAPI.APP\\Program.cs",
+              "ToolTip": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\MyCrudOperationAPI.APP\\Program.cs",
+              "RelativeToolTip": "MyCrudOperationAPI.APP\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:02:12.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250530163907_AddPriceToProduct.Designer.cs",
+              "DocumentMoniker": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\Infrastructure\\Migrations\\20250530163907_AddPriceToProduct.Designer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250530163907_AddPriceToProduct.Designer.cs",
+              "ToolTip": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\Infrastructure\\Migrations\\20250530163907_AddPriceToProduct.Designer.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250530163907_AddPriceToProduct.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvwUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:15:59.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoggingProductService.cs",
+              "DocumentMoniker": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\Infrastructure\\Decorators\\LoggingProductService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Decorators\\LoggingProductService.cs",
+              "ToolTip": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\Infrastructure\\Decorators\\LoggingProductService.cs",
+              "RelativeToolTip": "Infrastructure\\Decorators\\LoggingProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:12:42.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyCrudOperationAPI.APP.csproj",
+              "DocumentMoniker": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj",
+              "RelativeDocumentMoniker": "MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj",
+              "ToolTip": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj",
+              "RelativeToolTip": "MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-31T12:10:09.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\MyCrudOperationAPI.APP\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyCrudOperationAPI.APP\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\MyCrudOperationAPI.APP\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyCrudOperationAPI.APP\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T12:05:03.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyCrudOperationAPI.APP.http",
+              "DocumentMoniker": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.http",
+              "RelativeDocumentMoniker": "MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.http",
+              "ToolTip": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.http",
+              "RelativeToolTip": "MyCrudOperationAPI.APP\\MyCrudOperationAPI.APP.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-31T12:04:56.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\MyCrudOperationAPI.APP\\appsettings.json",
+              "RelativeDocumentMoniker": "MyCrudOperationAPI.APP\\appsettings.json",
+              "ToolTip": "E:\\MyTask\\BackendSide\\MyCrudOperationAPI\\MyCrudOperationAPI.APP\\appsettings.json",
+              "RelativeToolTip": "MyCrudOperationAPI.APP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T12:01:51.755Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 141,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
